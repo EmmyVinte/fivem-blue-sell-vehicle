@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Venda de Veículos - Blue Shop</title>
+    <link rel="stylesheet" href="blue.css"
+    />
+</head>
+<body>
+    <div class="containerNui">
+
+        <span class="boxInputListaOrdenada">
+            <span class="boxIcone1">
+                <img src="./car-front.svg" class="icone1">
+                <p class="titulotransferencia">
+                    Vender veículo
+                </p>
+            </span>
+            <br>
+            <p class="tituloLista">
+                Selecione o veículo para transferir
+            </p>
+            <select class="inputListaOrdenada" name="option">
+                <option value="" disabled selected>Selecione...</option>
+            </select>
+        </span>
+
+        <span class="containerIDtroca">
+            <p class="tituloTroca">
+                Digite o passaporte que irá receber o veículo
+            </p>
+            <input type="text" class="inputTextoTroca" placeholder="ex: 1">
+        </span>
+
+        <span class="containerVenda">
+            <p class="tituloVenda">
+                Digite o valor que irá vender
+            </p>
+            <input type="text" class="inputTextoVenda" placeholder="ex: 1.000.000">
+        </span>
+
+        <span class="containerBotao">
+            <button class="botaoEnviar">Enviar</button>
+            <button class="botaoCancelar">Cancelar</button>
+        </span>
+    </div>
+</body>
+</html>
