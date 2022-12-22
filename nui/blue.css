@@ -30,7 +30,7 @@ html, body {
     padding: 10px 20px;
     background-color: #333;
     border-radius: 1rem;
-    border: 1px solid rgba(180, 180, 180, 0.);
+    border: 1px solid rgba(180, 180, 180, .8);
     box-shadow: 0px 5px 16px rgba(0, 0, 0, .8);
 }
 
