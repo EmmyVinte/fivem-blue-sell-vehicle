@@ -1,3 +1,3 @@
-# fivem-blue-sell-vehicle
+# fivem-nui-blueSellVehicle
 
-![image](https://github.com/EmmyVinte/blue-sell-vehicle/assets/117837570/aee40333-d0b0-48a5-9cd9-5417f908e4fa)
+![image](https://github.com/EmmyVinte/fivem-blue-sell-vehicle/assets/117837570/25018b69-db9e-4643-be1d-97061aa5717f)
